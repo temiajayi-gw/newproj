@@ -17,5 +17,6 @@ alias newproj="bash path/to/repository/newProject.sh
 ```bash
 newproj my-app
 ```
+This has now been extended to include python and go
 
 Have fun!
